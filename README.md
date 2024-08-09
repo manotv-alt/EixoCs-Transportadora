@@ -3,7 +3,7 @@ Desenvolvimento de um sistema para transportadoras utilizando grafos para otimiz
 Nosso primeiro projeto em programação :)
 
 #### Autores
-- Emmanuel Fernandes  (github.com/manotv-alt) <br>
-- Gabriel Soares  (github.com/GabSoares404) <br>
-- Luiz Guilherme (github.com/LuizGDC7) <br>
-- Paulo Roberto (github.com/p0roberto)
+- Emmanuel Fernandes:  www.github.com/manotv-alt <br>
+- Gabriel Soares:  www.github.com/GabSoares404 <br>
+- Luiz Guilherme: www.github.com/LuizGDC7 <br>
+- Paulo Roberto: www.github.com/p0roberto
